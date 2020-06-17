@@ -2,7 +2,7 @@
 
 Deep Dive into St. Louis County Income Status
 
-Tante Ouattara
+Tanti Ouattara
 Shujun Chang
 Carrie Chunn
 
