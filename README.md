@@ -9,7 +9,7 @@ Carrie Chunn
 Looking at different data sets to determine if the average household income is driving the opportunities in the neighborhood (zip code), or if the neighborhood is influencing the opportunities in the surrounding areas. 
 We will be looking at and comparing crime rates, business activity and education, specifically the ranking of the school and if the income drives the graduation rate. 
 
-Tante Ouattara is taking the education aspect.
+Tanti Ouattara is taking the education aspect.
 Shujun Chang is taking the business aspect.
 Carrie Chunn is taking the crime data. 
 
