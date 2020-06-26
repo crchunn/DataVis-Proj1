@@ -1,0 +1,172 @@
+{
+    "release": {
+        "id": "acs2018_5yr",
+        "name": "ACS 2018 5-year",
+        "years": "2014-2018"
+    },
+    "tables": {
+        "B15011": {
+            "columns": {
+                "B15011001": {
+                    "indent": 0,
+                    "name": "Total:"
+                },
+                "B15011002": {
+                    "indent": 1,
+                    "name": "Male:"
+                },
+                "B15011003": {
+                    "indent": 2,
+                    "name": "25 to 39 years:"
+                },
+                "B15011004": {
+                    "indent": 3,
+                    "name": "Science and Engineering"
+                },
+                "B15011005": {
+                    "indent": 3,
+                    "name": "Science and Engineering Related Fields"
+                },
+                "B15011006": {
+                    "indent": 3,
+                    "name": "Business"
+                },
+                "B15011007": {
+                    "indent": 3,
+                    "name": "Education"
+                },
+                "B15011008": {
+                    "indent": 3,
+                    "name": "Arts, Humanities and Other"
+                },
+                "B15011009": {
+                    "indent": 2,
+                    "name": "40 to 64 years:"
+                },
+                "B15011010": {
+                    "indent": 3,
+                    "name": "Science and Engineering"
+                },
+                "B15011011": {
+                    "indent": 3,
+                    "name": "Science and Engineering Related Fields"
+                },
+                "B15011012": {
+                    "indent": 3,
+                    "name": "Business"
+                },
+                "B15011013": {
+                    "indent": 3,
+                    "name": "Education"
+                },
+                "B15011014": {
+                    "indent": 3,
+                    "name": "Arts, Humanities and Other"
+                },
+                "B15011015": {
+                    "indent": 2,
+                    "name": "65 years and over:"
+                },
+                "B15011016": {
+                    "indent": 3,
+                    "name": "Science and Engineering"
+                },
+                "B15011017": {
+                    "indent": 3,
+                    "name": "Science and Engineering Related Fields"
+                },
+                "B15011018": {
+                    "indent": 3,
+                    "name": "Business"
+                },
+                "B15011019": {
+                    "indent": 3,
+                    "name": "Education"
+                },
+                "B15011020": {
+                    "indent": 3,
+                    "name": "Arts, Humanities and Other"
+                },
+                "B15011021": {
+                    "indent": 1,
+                    "name": "Female:"
+                },
+                "B15011022": {
+                    "indent": 2,
+                    "name": "25 to 39 years:"
+                },
+                "B15011023": {
+                    "indent": 3,
+                    "name": "Science and Engineering"
+                },
+                "B15011024": {
+                    "indent": 3,
+                    "name": "Science and Engineering Related Fields"
+                },
+                "B15011025": {
+                    "indent": 3,
+                    "name": "Business"
+                },
+                "B15011026": {
+                    "indent": 3,
+                    "name": "Education"
+                },
+                "B15011027": {
+                    "indent": 3,
+                    "name": "Arts, Humanities and Other"
+                },
+                "B15011028": {
+                    "indent": 2,
+                    "name": "40 to 64 years:"
+                },
+                "B15011029": {
+                    "indent": 3,
+                    "name": "Science and Engineering"
+                },
+                "B15011030": {
+                    "indent": 3,
+                    "name": "Science and Engineering Related Fields"
+                },
+                "B15011031": {
+                    "indent": 3,
+                    "name": "Business"
+                },
+                "B15011032": {
+                    "indent": 3,
+                    "name": "Education"
+                },
+                "B15011033": {
+                    "indent": 3,
+                    "name": "Arts, Humanities and Other"
+                },
+                "B15011034": {
+                    "indent": 2,
+                    "name": "65 years and over:"
+                },
+                "B15011035": {
+                    "indent": 3,
+                    "name": "Science and Engineering"
+                },
+                "B15011036": {
+                    "indent": 3,
+                    "name": "Science and Engineering Related Fields"
+                },
+                "B15011037": {
+                    "indent": 3,
+                    "name": "Business"
+                },
+                "B15011038": {
+                    "indent": 3,
+                    "name": "Education"
+                },
+                "B15011039": {
+                    "indent": 3,
+                    "name": "Arts, Humanities and Other"
+                }
+            },
+            "denominator_column_id": "B15011001",
+            "title": "Sex by Age by Field of Bachelor's Degree for First Major for the Population 25 Years and Over",
+            "universe": "Population 25 Years and Over With a Bachelor's Degree or Higher Attainment"
+        }
+    }
+}

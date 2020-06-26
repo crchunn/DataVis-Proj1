@@ -1,0 +1,160 @@
+{
+    "release": {
+        "id": "acs2018_5yr",
+        "name": "ACS 2018 5-year",
+        "years": "2014-2018"
+    },
+    "tables": {
+        "B07009": {
+            "columns": {
+                "B07009001": {
+                    "indent": 0,
+                    "name": "Total:"
+                },
+                "B07009002": {
+                    "indent": 2,
+                    "name": "Less than high school graduate"
+                },
+                "B07009003": {
+                    "indent": 2,
+                    "name": "High school graduate (includes equivalency)"
+                },
+                "B07009004": {
+                    "indent": 2,
+                    "name": "Some college or associate's degree"
+                },
+                "B07009005": {
+                    "indent": 2,
+                    "name": "Bachelor's degree"
+                },
+                "B07009006": {
+                    "indent": 2,
+                    "name": "Graduate or professional degree"
+                },
+                "B07009007": {
+                    "indent": 1,
+                    "name": "Same house 1 year ago:"
+                },
+                "B07009008": {
+                    "indent": 2,
+                    "name": "Less than high school graduate"
+                },
+                "B07009009": {
+                    "indent": 2,
+                    "name": "High school graduate (includes equivalency)"
+                },
+                "B07009010": {
+                    "indent": 2,
+                    "name": "Some college or associate's degree"
+                },
+                "B07009011": {
+                    "indent": 2,
+                    "name": "Bachelor's degree"
+                },
+                "B07009012": {
+                    "indent": 2,
+                    "name": "Graduate or professional degree"
+                },
+                "B07009013": {
+                    "indent": 1,
+                    "name": "Moved within same county:"
+                },
+                "B07009014": {
+                    "indent": 2,
+                    "name": "Less than high school graduate"
+                },
+                "B07009015": {
+                    "indent": 2,
+                    "name": "High school graduate (includes equivalency)"
+                },
+                "B07009016": {
+                    "indent": 2,
+                    "name": "Some college or associate's degree"
+                },
+                "B07009017": {
+                    "indent": 2,
+                    "name": "Bachelor's degree"
+                },
+                "B07009018": {
+                    "indent": 2,
+                    "name": "Graduate or professional degree"
+                },
+                "B07009019": {
+                    "indent": 1,
+                    "name": "Moved from different county within same state:"
+                },
+                "B07009020": {
+                    "indent": 2,
+                    "name": "Less than high school graduate"
+                },
+                "B07009021": {
+                    "indent": 2,
+                    "name": "High school graduate (includes equivalency)"
+                },
+                "B07009022": {
+                    "indent": 2,
+                    "name": "Some college or associate's degree"
+                },
+                "B07009023": {
+                    "indent": 2,
+                    "name": "Bachelor's degree"
+                },
+                "B07009024": {
+                    "indent": 2,
+                    "name": "Graduate or professional degree"
+                },
+                "B07009025": {
+                    "indent": 1,
+                    "name": "Moved from different state:"
+                },
+                "B07009026": {
+                    "indent": 2,
+                    "name": "Less than high school graduate"
+                },
+                "B07009027": {
+                    "indent": 2,
+                    "name": "High school graduate (includes equivalency)"
+                },
+                "B07009028": {
+                    "indent": 2,
+                    "name": "Some college or associate's degree"
+                },
+                "B07009029": {
+                    "indent": 2,
+                    "name": "Bachelor's degree"
+                },
+                "B07009030": {
+                    "indent": 2,
+                    "name": "Graduate or professional degree"
+                },
+                "B07009031": {
+                    "indent": 1,
+                    "name": "Moved from abroad:"
+                },
+                "B07009032": {
+                    "indent": 2,
+                    "name": "Less than high school graduate"
+                },
+                "B07009033": {
+                    "indent": 2,
+                    "name": "High school graduate (includes equivalency)"
+                },
+                "B07009034": {
+                    "indent": 2,
+                    "name": "Some college or associate's degree"
+                },
+                "B07009035": {
+                    "indent": 2,
+                    "name": "Bachelor's degree"
+                },
+                "B07009036": {
+                    "indent": 2,
+                    "name": "Graduate or professional degree"
+                }
+            },
+            "denominator_column_id": "B07009001",
+            "title": "Geographical Mobility in the Past Year by Educational Attainment for Current Residence in the United States",
+            "universe": "Population 25 Years and Over in the United States"
+        }
+    }
+}
