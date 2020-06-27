@@ -1,0 +1,4 @@
+*.psd filter=lfs diff=lfs merge=lfs -text
+Final[[:space:]]Analysis[[:space:]]between[[:space:]]Income,[[:space:]]Education[[:space:]]and[[:space:]]Crime[[:space:]]in[[:space:]]St.[[:space:]]Louis[[:space:]]Counties.ipynb.psd filter=lfs diff=lfs merge=lfs -text
+Final[[:space:]]Analysis[[:space:]]between[[:space:]]Income,[[:space:]]Education[[:space:]]and[[:space:]]Crime[[:space:]]in[[:space:]]St.[[:space:]]Louis[[:space:]]Counties.ipynb filter=lfs diff=lfs merge=lfs -text
+*.ipynb filter=lfs diff=lfs merge=lfs -text
